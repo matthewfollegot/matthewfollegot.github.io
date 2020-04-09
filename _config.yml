@@ -21,13 +21,14 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 9
   exclude:
     archived: false
     forks: true
     projects:
      - todo.c
      - Real-Estate-App
+     - 3D-Unity-Game
 
 social_media:
   # behance: your_username
