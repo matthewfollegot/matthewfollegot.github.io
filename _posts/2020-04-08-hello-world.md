@@ -1,6 +1,6 @@
 ---
 title: "Life thus far"
-published: false
+published: true
 ---
 
 This is a meditation on 20.5 years of life. A lot has changed over the last 3 years since I started University. I'd like to touch on a few different topics, perhaps those that I feel are most important.  
@@ -19,6 +19,8 @@ The most important thing for me, however, when it comes to productivity is sleep
 At Waterloo, especially being in co-op, we compete so fiercly with each other. We can see our ranking in respect to the rest of our class at the end of each semester. Co-op is on a whole other level, though. Everyone's competing for the best jobs and it's like a positive feedback loop. One person grinds harder than everyone else to get that job they're really after. Then, the next person raises the bar, and so on and so forth. On top of that, you see your friends getting internships at top tech companies, which adds to that pressure. Balancing 10+ interviews during a 4 week time period while having midterms is pretty brutal.
 
 As hard as it is to swallow, these internships don't matter all that much. Sure, shoot for the best, but don't get down on yourself if you don't succeed. Regardless of what happens, you'll have a job and you'll be learning. By the time you're going into your fifth or sixth co-op you'll be competitive enough to land the job you've always wanted, so don't kill yourself in the first few years. I'm kind of getting on a tangent
+
+## Do what's difficult
 
 ## University isn't really that hard
 

@@ -24,9 +24,10 @@ projects:
   limit: 6
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
      - todo.c
+     - Real-Estate-App
 
 social_media:
   # behance: your_username
